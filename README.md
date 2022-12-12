@@ -1,5 +1,1 @@
-
-<h1 align="center">Hi 👋, I'm baristaner</h1>
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baristaner&show_icons=true&theme=highcontrast)
