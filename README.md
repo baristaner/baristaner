@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm baristaner</h1>
-<h3 align="center">FullStack Developer</h3>
 
+<h2 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F30E&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+  
+</h2>
+  
 - 🔭 I’m currently working on [Musician App](https://github.com/musician-app)
 
 - 📫 How to reach me **baristaner11@gmail.com**
