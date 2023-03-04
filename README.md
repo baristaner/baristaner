@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm baristaner</h1>
 
-<h2 align="center">
+<h2 align="left">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F30E&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
   
