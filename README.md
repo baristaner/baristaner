@@ -56,7 +56,7 @@
 <div>
   <div align="left">
   <code><img alt="React Native" height="50" width="50" src="https://reactnative.dev/img/header_logo.svg"></code>
-   <code><img alt="Android Studio" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"></code>
+  
   </div>
 </div>
 
