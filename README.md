@@ -32,7 +32,6 @@
   <code><img alt="Html" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
   <code><img alt="React" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
   <code><img alt="CSS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></code>
-  <code><img alt="SASS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"></code>
   <code><img alt="Bootstrap" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
   <code><img alt="Tailwind" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"></code>
   </div>
@@ -64,8 +63,6 @@
 <div>
   <div align="left">
   <code><img alt="AWS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
-    <code><img alt="Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
-    <code><img alt="Google Cloud" height="50" width="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
   </div>
 </div>
 
