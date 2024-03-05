@@ -5,6 +5,7 @@
   <div align="left">
   <code><img alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
   <code><img alt="TypeScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/></code>
+  <code><img alt="C#" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"/></code> 
   <code><img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
   <code><img alt="LUA" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png"></code>
   </div>
@@ -15,13 +16,13 @@
   <div align="left">
   <code><img alt="React" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
   <code><img alt="Bootstrap" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
-  <code><img alt="Tailwind" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"></code>
   </div>
 </div>
 
 <h2 font-weight="bold">Back End</h2>
 <div>
   <div align="left">
+    <code><img alt=".NET" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg"></code>
   <code><img alt="Node" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
   <code><img alt="NestJS" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg"></code>
   <code><img alt="PrismaJS" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg"></code>
